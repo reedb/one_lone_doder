@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=8OK8_tHeCIA
+
+Javidx9's solution for windows:
+  https://raw.githubusercontent.com/OneLoneCoder/Javidx9/refs/heads/master/SimplyCode/OneLoneCoder_Tetris.cpp
