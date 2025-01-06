@@ -1,7 +1,11 @@
 # one_lone_doder
-Port of one_lone_coder Windows console apps to lunix. 
+Port of Javidx9/one_lone_coder's Windows console apps to lunix:
 
-# dependencies
+https://github.com/OneLoneCoder/Javidx9/blob/master/SimplyCode/OneLoneCoder_Tetris.cpp 
+
+## dependencies
 We use the ncurses library to manage the terminal. 
+
 To install on Ubuntu 24.04 LTS:
-  sudo apt update; sudo apt install libncurses-dev
+
+sudo apt update; sudo apt install libncurses-dev
